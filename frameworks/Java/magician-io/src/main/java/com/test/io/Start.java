@@ -25,7 +25,7 @@ public class Start {
                     .bind(8080, 10000);
 
         } catch (Exception e){
-            logger.error("启动服务出现异常", e);
+            logger.error("Kick your ass", e);
         }
     }
 }
